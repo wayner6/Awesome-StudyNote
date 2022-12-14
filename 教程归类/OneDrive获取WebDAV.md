@@ -1,11 +1,11 @@
 OneDrive的WebDav的获取需要用到**koofr**这一挂载网盘的网站
-- 谷歌登录[**koofr**](https://app.koofr.net/)后，在左侧connect选项下选择onedrive
+- 谷歌登录[**koofr**](https://app.koofr.net/)后，在左侧`connect`选项下选择`onedrive`
 
-- 接着点击右上角头像选择Preference
+- 接着点击右上角头像选择`Preference`
 
-- 在preference中找到password
+- 在`preference`中找到`password`
 
-- 滑到下方找到APP password，任意起一个有助于你辨别的名字，点击generate，即可生成密钥
+- 滑到下方找到`APP password`，任意起一个有助于你辨别的名字，点击`generate`，即可生成密钥
 
 - 复制绿色框里的密钥
 
